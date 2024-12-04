@@ -1,7 +1,7 @@
 # Sales and Financial Analytics
 
 ## Overview
-This project involves a hardware company that sells PCs, Mice, Printers, and peripherals. The business operates through two customer segments: **Brick & Mortar (Croma)** and **E-Commerce (Flipkart)**, managed via three channels: **Retailer**, **Distributor**, and **Direct**. The objective of this project is to assess **Sales** and **Financial Health** to support business expansion.
+This project involves a hardware company that sells PCs, Mice, Printers, and peripherals. The business operates through two customer segments: **Brick & Mortar (Croma)** and **E-Commerce (Flipkart)**, managed via three channels:B2B- **Retailer**, **Distributor**, and B2C **Direct**. The objective of this project is to assess **Sales** and **Financial Health** to support business expansion.
 
 ## Objective
 The project provides actionable insights through two primary reports:
